@@ -14,7 +14,7 @@
     "@types/lodash": "^4.14.178",
     "@types/mocha": "^9.1.0",
     "allure-playwright": "2.0.0-beta.15",
-    "babel-loader": "8.2.3",
+    "babel-loader": "8.2.5",
     "babel-plugin-istanbul": "6.1.1",
     "comma-separated-values": "3.6.4",
     "copy-webpack-plugin": "10.2.0",
